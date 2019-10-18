@@ -1,1 +1,2 @@
-# ai_class
+# Knapsack Game
+# Nicolas Taborda Hoyos y Beycker Alexis Agredo
